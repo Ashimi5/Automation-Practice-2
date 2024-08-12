@@ -1,4 +1,4 @@
-describe('mysuite',()=>{
+describe('Mysuiteedit',()=>{
 
     it('Captures Screenshots and Videos',()=>{
 
